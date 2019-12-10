@@ -1,3 +1,4 @@
+![alt text](https://github.com/zill4/RC_Python/blob/master/pythonRC.png?raw=true)
 # RC_Python
 RingCentral Python SDK using the Requests library for API calls.
 
